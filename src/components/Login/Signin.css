@@ -1,0 +1,109 @@
+.signin-form{
+    width:32rem;
+    height:38rem;
+    background:white;
+    padding: 0px 20px;
+    overflow: auto;
+    margin-top:4rem;
+    margin-left:5rem;
+    display:inherit;
+    text-align: center;
+    overflow: auto;
+    border-top-left-radius:0.5rem ;
+    border-bottom-left-radius:0.5rem;
+}
+.signin-container{
+align-content: center;
+align-items: center;
+justify-content: center;
+justify-items: center;
+}
+.Signin-FormField__Input{
+    border: none;
+    width: 80%;
+    outline: none;
+    font-size: 1.1rem;
+    color:black;
+}
+.signin{
+    text-align: center;
+    font-size: 52px;
+    font-weight:bold;
+    color: #03134e;
+    margin-top: 4.2rem;
+}
+.Signin-FormField__Button{
+    background-color:#3A78F9;
+    color: white;
+    border: none;
+    width: 105%!important;
+    height: 3rem;
+    outline: none;
+    border-radius: 0.2rem;
+    font-size: 1.3em!important;
+    font-weight: bolder!important;
+    margin-top: 0rem;
+    margin-left: 0.5rem;
+}
+.Signin-FormFields{
+    width: 75%;
+    margin-left: 4rem;
+    padding: 0rem;
+    /* margin-right: 5rem; */
+    margin-top: 5rem;
+    /* justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-items: center; */
+  }
+.Signin-FormField{
+    padding: 0.7rem!important;
+    margin-top: 1.5rem;
+    border: none;
+    border-bottom: 2.2px solid #AFB3B8!important;
+    align-items:flex-end;
+    justify-content: left!important;
+    justify-items: left;
+    display: flex;
+}
+.FormField__Link{
+    color:#3A78F9;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 1em;
+    margin-top: 2rem;
+    margin-left: 1rem;
+    padding-bottom: 5px;
+}
+.signin-mail{
+    margin-left: -.5rem!important;
+    width: 1.7rem;
+    /* margin-top: 1.7rem; */
+}
+.signin-lock{
+    margin-left: -.5rem!important;
+    width: 1.7rem;
+    /* margin-top: 1.7rem; */
+  }
+.signin-eye{
+    width: 1.3rem;
+}
+.rememberme-container{
+    justify-content: end;
+    justify-items: end;
+    align-items: baseline;
+    display: flex;
+    flex-direction: row;
+}
+.remember{
+    margin-top: 1.8rem;
+    /* border: 2px red; */
+
+}
+.form-group{
+    color:#4D504F
+}
+.rememberMe{
+    text-decoration: #9FA3A2;
+    margin-top: 1.5rem!important;
+}

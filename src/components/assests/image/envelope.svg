@@ -1,0 +1,4 @@
+<svg id="envelope-line" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Rectangle_834" data-name="Rectangle 834" width="32" height="32" fill="rgba(0,0,0,0)"/>
+  <path id="Path_1669" data-name="Path 1669" d="M28.25,6H3.75A1.71,1.71,0,0,0,2,7.667V24.333A1.71,1.71,0,0,0,3.75,26h24.5A1.71,1.71,0,0,0,30,24.333V7.667A1.71,1.71,0,0,0,28.25,6ZM26.9,24.333H5.2L11.327,18.3l-1.26-1.158L3.75,23.367V8.933L14.626,19.242a1.813,1.813,0,0,0,2.468,0L28.25,8.675V23.258l-6.44-6.133L20.576,18.3ZM4.9,7.667H26.832L15.86,18.058Z" transform="translate(0 0)" fill="#576698"/>
+</svg>

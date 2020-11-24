@@ -1,0 +1,203 @@
+.agency_page{
+    text-align: center;
+    background: #F6F7FB;
+    width: 100%;
+    height:fit-content;
+    margin-top: 0rem;
+}
+.agency{
+    color: #03134e;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.card{
+    background:white;
+    width: 92%;
+    height: 100px;
+    display:inline-flex;
+    align-items: center;
+}
+.first-container{
+align-items: center;
+display: flex;
+flex-direction: row;
+width: 18.5%;
+}
+.name{
+    font-size: 1rem;
+     margin-left: 10px;
+    text-align: left;
+}
+.location{
+    text-align: left; 
+    justify-items: center;
+    width: 6rem;
+}
+.city{
+    justify-items: center;
+    align-items: center;
+}
+.ant-rate {
+    -webkit-box-sizing: border-box;
+    box-sizing: border-box;
+    color: rgba(0, 0, 0, 0.65);
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    -webkit-font-feature-settings: 'tnum';
+    font-feature-settings: 'tnum', "tnum";
+    display: inline-block;
+    margin: 0;
+    padding: 0;
+    margin-left: 1.5rem;
+    color: #fadb14;
+    font-size: 17px;
+    line-height: unset;
+    list-style: none;
+    outline: none;
+} 
+.outline{
+   margin-right: 2rem;
+}
+.agenc{
+    color:#03134e;
+    margin-top: -49rem;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: -86rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+  }
+.searchForm{
+    width: 20rem;
+    display: flex;
+}
+.messaging{
+    margin-right: 0.8rem;
+    background: #F6F7FB;
+    height: 1.5rem;
+}
+.notification{
+margin-right: 1.6rem;
+height: 1.5rem;
+}
+.popup-button{
+    color:#1788F1;
+    border-radius: 2rem!important;
+}
+.popup-form{
+    display: grid;
+}
+.card-container{
+   width: 90%;
+   display: flex;
+   justify-content: space-between!important;
+   align-items: center;
+   background: white;
+   margin-top: 0.75rem!important;
+   margin-left: 6.5rem;
+   padding: 1rem;
+    box-shadow: 1px 1px 1px lightgrey;
+    border-radius: 4px;
+}
+.site-tree-search-value {
+    color: #f50;
+  }
+.ant-card {
+    box-sizing: border-box;
+    align-items: center;
+    color: rgba(0, 0, 0, 0.65);
+    font-variant: tabular-nums;
+    list-style: none;
+    background: #fff;
+    padding: 5px;
+    margin-bottom: 8px;
+    align-items: center;
+    justify-items: center;
+}
+.LG{
+    background: #ECF1F0!important;
+    height: 1.5rem;
+    width: 1.5rem;
+    margin-left: 1rem;
+}
+.murphy{
+    margin-left: 1rem;
+    color: black;
+}
+.agency-div{
+    width: 90%!important;
+    margin-top: -49rem!important;
+    margin-left: 6.5rem!important;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-evenly!important;
+    align-items:center!important;
+}
+.agency-div-2{
+    display: flex;
+    flex-direction: row;
+    justify-content:stretch!important;
+    align-items:center!important;
+}
+.searchbar-div{
+    width: 90%;
+    margin-left: 6.5rem;
+    margin-top: 2rem;
+    margin-bottom: 1.5rem;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between!important;
+    align-items:center!important;
+}
+.ant-dropdown-link{
+    color: black!important;
+    font-size: 1rem!important;
+    font-weight:500;
+}
+.vertical-line{
+    margin-right:0.8rem;
+    height:32px;
+}
+.filter{
+    height: 2rem;
+    border: 1px solid #CED8D7;
+}
+.info-icon{
+    height: 1rem!important;
+    width: 1rem;
+}
+.logo{
+    height:30px;
+    width: 30px;
+}
+.product_icon{
+    display: inline-flex;
+    width: 25px;
+    height:25px;
+    justify-content:center;
+}
+.popover-content{
+   align-items: center;
+   align-content: center;
+   justify-items: center;
+   justify-content: center;
+   columns: 2;
+}
+.popover-para{
+    border:1px solid #EAECEE;
+    border-radius: 1rem;
+    text-align: center;
+    height: 2rem;
+    font-weight:initial;
+    padding: 0px 15px;
+}
+.ant-popover-inner {       
+     width:fit-content;
+     padding: 12px;
+    }
+.ant-popover-inner-content{
+    height:fit-content;
+    padding: 15px;
+}    
+  

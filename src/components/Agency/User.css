@@ -1,0 +1,57 @@
+.drawer{
+}
+.ant-drawer.ant-drawer-open .ant-drawer-mask {
+    height: 100%;
+    opacity: 0;
+    width: '256';
+    pointer-events: auto;
+}
+.ant-drawer-content-wrapper{
+    width: 22rem!important;
+}
+.msp-number{
+    color: #04144F;
+    margin-left: 1rem;
+    margin-top: 1rem;
+    font-size:20px;
+    font-family: Open Sans;
+}
+.input-btn{
+    padding-left: 1rem;
+    padding-top: 0.5rem;
+    display: flex;
+}
+.user-FormField__Input{
+    border: 1px solid #949DBD!important;
+    border-radius: 0.1rem;
+    width: 12rem;
+    margin-top: 0.2rem;
+    color:black;
+    height: 30px;
+    padding-left: 8px;
+}
+.model-number{
+    height: 11rem;
+    border-bottom: 1px solid #f0f0f0;
+}
+.serial-number{
+    height: 11rem;
+    border-bottom: 1px solid #f0f0f0;
+}
+.product-category{
+    height: 11rem;
+    border-bottom: 1px solid #f0f0f0;
+}
+.ant-drawer-body {
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+    overflow: auto;
+    font-size: 14px;
+    padding: 0px;
+    line-height: 1.5715;
+    word-wrap: break-word;
+}
+.apply-btn{
+    padding: 1rem;
+    margin-left: 6rem;
+}

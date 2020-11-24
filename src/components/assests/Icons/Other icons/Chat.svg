@@ -1,0 +1,6 @@
+<svg id="talk-bubbles-solid-badged" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Rectangle_4199" data-name="Rectangle 4199" width="32" height="32" fill="rgba(0,0,0,0)"/>
+  <path id="Path_41012" data-name="Path 41012" d="M7.333,18.111V11H4.667A2.667,2.667,0,0,0,2,13.667v16a.868.868,0,0,0,1.387.7L7.964,27H19.911a2.462,2.462,0,0,0,2.533-2.551v-1H12.667a5.333,5.333,0,0,1-5.333-5.333Z" transform="translate(-0.222 -1.222)" fill="#04144f"/>
+  <path id="Path_41013" data-name="Path 41013" d="M27.889,12.444A6.649,6.649,0,0,1,21.471,4h-7.8A2.667,2.667,0,0,0,11,6.667V17.333A2.667,2.667,0,0,0,13.667,20H25.711l4.249,3.3a.87.87,0,0,0,1.4-.7V11.44A6.622,6.622,0,0,1,27.889,12.444Z" transform="translate(-1.222 -0.444)" fill="#04144f"/>
+  <circle id="Ellipse_765" data-name="Ellipse 765" cx="4.444" cy="4.444" r="4.444" transform="translate(22.222 0.889)" fill="#c8365c"/>
+</svg>

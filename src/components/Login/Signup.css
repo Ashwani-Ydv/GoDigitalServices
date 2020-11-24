@@ -1,0 +1,91 @@
+.signup-form{
+    width:32rem;
+    height:38rem;
+    background:white;
+    padding: 0px 20px;
+    overflow: auto;
+    margin-top:3rem;
+    margin-left:3rem;
+    display:inherit;
+    text-align: center;
+    overflow: auto;
+    border-top-left-radius:0.5rem ;
+    border-bottom-left-radius:0.5rem;
+}
+.Signup-FormField__Button{
+    background-color:#3A78F9;
+    color: white;
+    border: none;
+    width: 100%!important;
+    height: 3rem;
+    outline: none;
+    border-radius: 0.2rem;
+    font-size: 1.3em!important;
+    font-weight: bolder!important;
+    margin-top: 4rem;
+    
+}
+.Signup-FormField__Input{
+    border: none;
+    width: 80%;
+    outline: none;
+    font-size: 1.1rem;
+    color:black;
+}
+.signup-container{
+    margin-top: 1rem;
+    margin-left: 2rem;
+    
+}
+.signup{
+  text-align: center;
+  font-size: 52px;
+  font-weight:medium;
+  font: Ubuntu;
+  color: #03134e;
+  margin-top: 3rem;
+}
+.please{
+margin-left: 4rem;
+width: 356px;
+text-align: center!important;
+font: Regular 20px/28px Open Sans;
+letter-spacing: 0px;
+font-weight: 400;
+font-size: 1.1rem!important;
+color: #576698;
+margin-top: 1.5rem;
+opacity: 1;
+  }
+  .Signup-FormFields{
+    width: 75%;
+    margin-left: 4rem;
+    padding: 0rem;
+    margin-top: 2rem;
+    justify-content: center;
+    align-items: center;
+    align-content: center;
+    align-items: center;
+  }
+  .Signup-FormField{
+    padding: 0.7rem!important;
+    margin-top: 1.5rem;
+    border: none;
+    border-bottom: 2.2px solid #AFB3B8!important;
+    align-items:flex-end;
+    justify-content: left!important;
+    justify-items: left;
+    display: flex;
+  }
+  .signup-user{
+    margin-left: -.5rem!important;
+    width: 1.7rem;
+    /* margin-top: 1.7rem; */
+  }
+  .signup-lock{
+    margin-left: -.5rem!important;
+    width: 1.7rem;
+  }
+  .signup-eye{  
+      width: 1.3rem;
+  }

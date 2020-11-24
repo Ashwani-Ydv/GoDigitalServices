@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-agencies_card_arrow">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="agencies_card_arrow" data-name="agencies card arrow" clip-path="url(#clip-agencies_card_arrow)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group_36247" data-name="Group 36247">
+      <g id="angle-line_17_" data-name="angle-line (17)" transform="translate(32) rotate(90)">
+        <rect id="Rectangle_4197" data-name="Rectangle 4197" width="32" height="32" fill="rgba(0,0,0,0)"/>
+        <path id="Path_41011" data-name="Path 41011" d="M20.9,10.6,10.663,0,.423,10.6a1.512,1.512,0,0,0,2.178,2.1l8.062-8.347,8.071,8.347a1.512,1.512,0,0,0,2.178-2.1Z" transform="translate(5.337 9.422)" fill="rgba(148,157,189,0.46)"/>
+      </g>
+    </g>
+  </g>
+</svg>

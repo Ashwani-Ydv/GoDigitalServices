@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Close">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Close" clip-path="url(#clip-Close)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group">
+      <rect id="Rectangle" width="32" height="32" fill="none"/>
+      <path id="Combined_Shape" data-name="Combined Shape" d="M21.757,23.525l-9.811-9.811L2.136,23.525a1.251,1.251,0,0,1-1.768-1.77l9.811-9.81L.367,2.134A1.25,1.25,0,1,1,2.136.367l9.811,9.81L21.757.367a1.25,1.25,0,0,1,1.768,1.767l-9.811,9.811,9.811,9.81a1.251,1.251,0,0,1-1.768,1.77Z" transform="translate(4.054 4.055)" fill="#04144f"/>
+    </g>
+  </g>
+</svg>

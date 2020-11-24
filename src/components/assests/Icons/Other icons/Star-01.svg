@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Star-01">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Star-01" clip-path="url(#clip-Star-01)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group_36244" data-name="Group 36244">
+      <g id="star-solid">
+        <rect id="Rectangle_3543" data-name="Rectangle 3543" width="32" height="32" fill="rgba(0,0,0,0)"/>
+        <path id="Path_36779" data-name="Path 36779" d="M30.54,15.274a1.988,1.988,0,0,0-1.152-3.58l-8.034-.3a.205.205,0,0,1-.179-.134L18.4,3.737a1.98,1.98,0,0,0-3.723,0l-2.767,7.545a.205.205,0,0,1-.179.134l-8.034.3A1.988,1.988,0,0,0,2.544,15.3l6.3,4.967a.206.206,0,0,1,.071.215L6.749,28.189a1.983,1.983,0,0,0,3.017,2.193l6.66-4.475a.2.2,0,0,1,.223,0l6.66,4.475a1.959,1.959,0,0,0,3.017-2.148L24.139,20.5a.2.2,0,0,1,.071-.215Z" transform="translate(-0.272 -0.378)" fill="#ffa63e"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-fridge_9">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="fridge_9" data-name="fridge – 9" clip-path="url(#clip-fridge_9)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group_36246" data-name="Group 36246">
+      <g id="info-standard-line_1_" data-name="info-standard-line (1)">
+        <rect id="Rectangle_4265" data-name="Rectangle 4265" width="32" height="32" fill="rgba(0,0,0,0)"/>
+        <circle id="Ellipse_783" data-name="Ellipse 783" cx="1.244" cy="1.244" r="1.244" transform="translate(14.729 8.044)" fill="#3e5bf8"/>
+        <path id="Path_41030" data-name="Path 41030" d="M20.222,23.789H18.444V14.1H15.778a.889.889,0,1,0,0,1.778h.889v7.911H14.889a.889.889,0,0,0,0,1.778h5.333a.889.889,0,0,0,0-1.778Z" transform="translate(-1.556 -1.567)" fill="#3e5bf8"/>
+        <path id="Path_41031" data-name="Path 41031" d="M16.222,30.444A14.222,14.222,0,1,1,30.444,16.222,14.222,14.222,0,0,1,16.222,30.444Zm0-26.667A12.444,12.444,0,1,0,28.667,16.222,12.444,12.444,0,0,0,16.222,3.778Z" transform="translate(-0.222 -0.222)" fill="#3e5bf8"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,6 @@
+<svg id="bell" xmlns="http://www.w3.org/2000/svg" width="32" height="32" viewBox="0 0 32 32">
+  <rect id="Rectangle_436" data-name="Rectangle 436" width="32" height="32" fill="rgba(0,0,0,0)"/>
+  <path id="Path_1458" data-name="Path 1458" d="M17.7,34.027A2.373,2.373,0,0,0,20,32H15.32a2.373,2.373,0,0,0,2.38,2.027Z" transform="translate(-1.702 -3.556)" fill="#04144f"/>
+  <path id="Path_1459" data-name="Path 1459" d="M29.539,25.2l-.3-.267a12.773,12.773,0,0,1-2.231-2.6,11.227,11.227,0,0,1-1.2-4.276V13.664a9.706,9.706,0,0,0-.142-1.591,6.667,6.667,0,0,1-5.324-6.542v-.56a9.4,9.4,0,0,0-2.951-.889V2.962a1.187,1.187,0,1,0-2.373,0V4.126a9.609,9.609,0,0,0-8.267,9.538v4.391a11.227,11.227,0,0,1-1.2,4.276,12.8,12.8,0,0,1-2.2,2.6l-.3.267v2.507H29.539Z" transform="translate(-0.339 -0.197)" fill="#04144f"/>
+  <circle id="Ellipse_76" data-name="Ellipse 76" cx="4.444" cy="4.444" r="4.444" transform="translate(22.222 0.889)" fill="#c8365c"/>
+</svg>

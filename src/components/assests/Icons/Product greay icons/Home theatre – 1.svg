@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Home_theatre_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Home_theatre_1" data-name="Home theatre – 1" clip-path="url(#clip-Home_theatre_1)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group_36233" data-name="Group 36233">
+      <rect id="Rectangle_4360" data-name="Rectangle 4360" width="32" height="32" fill="none"/>
+      <g id="noun_Speaker_3376880" transform="translate(-19.353 -14.883)">
+        <g id="Group_36143" data-name="Group 36143" transform="translate(26.353 17.882)">
+          <path id="Path_41074" data-name="Path 41074" d="M42.708,17.882a2.1,2.1,0,0,1,2.1,2.1h0V41.786a2.1,2.1,0,0,1-2.1,2.1H28.45a2.1,2.1,0,0,1-2.1-2.1h0V19.979a2.1,2.1,0,0,1,2.1-2.1H42.708Zm0,1.258H28.45a.839.839,0,0,0-.839.839h0V41.786a.839.839,0,0,0,.839.839H42.708a.839.839,0,0,0,.839-.839h0V19.979a.839.839,0,0,0-.839-.839Zm-7.129,9.226a6.29,6.29,0,1,1-6.29,6.29A6.29,6.29,0,0,1,35.579,28.366Zm0,1.258a5.032,5.032,0,1,0,5.032,5.032A5.032,5.032,0,0,0,35.579,29.624Zm0,1.258A3.774,3.774,0,1,1,31.8,34.657,3.774,3.774,0,0,1,35.579,30.882Zm0,1.258a2.516,2.516,0,1,0,2.516,2.516A2.516,2.516,0,0,0,35.579,32.14Zm0-10.9a2.935,2.935,0,1,1-2.935,2.935A2.935,2.935,0,0,1,35.579,21.237Zm0,1.258a1.677,1.677,0,1,0,1.677,1.677A1.677,1.677,0,0,0,35.579,22.5Z" transform="translate(-26.353 -17.882)" fill="#576698"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

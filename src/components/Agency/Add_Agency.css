@@ -1,0 +1,246 @@
+.add_agency{
+    color:#03134e;
+    font-family:-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    margin-left: 1.5rem!important;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+.info{
+    text-align: left;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.service-location{
+    text-align: left;
+    font-size: 1.1rem;
+    font-weight: bold;
+}
+.agency-div{
+    width: 88%;
+    margin-left: 6.5rem!important;
+    display: flex;
+    flex-direction: row;
+    justify-content:space-between!important;
+    align-items:center!important;
+}
+.agency-div-2{
+    display: flex;
+    flex-direction: row;
+    justify-content:stretch!important;
+    align-items:center!important;
+}
+.add-cancle-button-div{
+    justify-content:flex-end!important;
+    justify-items: right!important;
+    align-items: right!important;
+    align-content: right!important;
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+}
+
+.add-button{
+width: 6rem;
+}
+.cancle-button{
+    height: 2rem;
+    width: 6rem;
+    background: white;
+    color: #0173FC;
+    border: 1px solid #3A78F9;
+    border-color: 2px solid #3A78F9!important;
+    font-weight:500;
+}
+.cancle-button:active{
+    color:#3A78F9;
+    background: white;
+}
+.cancle-button:hover{
+    color: #3A78F9!important;
+    background: white;
+}
+.card1{
+    width: 90%;
+    height:15rem!important;
+    margin-left: 8rem;
+    margin-top: 1rem;
+    background: white;
+    padding: 2.5rem;
+    padding-top: 1.5rem;
+    box-shadow: 1px 1px 1px lightgrey;
+}
+.card2{
+    width: 90%;
+    height:13rem!important;
+    margin-left: 8rem;
+    margin-top: 1rem;
+    background: white;
+    padding: 2.5rem;
+    padding-top: 1.5rem;
+    box-shadow: 1px 1px 1px lightgrey;
+}
+.FormField__Label{
+    display:flow-root;
+    font-weight: bold;
+    align-content: left;
+    text-align: left;
+}
+.info-first-container{
+display: flex;
+width: 100%;
+margin-top: 1rem;
+flex-direction: row;
+justify-content: space-between!important;
+background: white;
+}
+.info-second-container{
+    display: flex;
+    width: 100%;
+    margin-top: 1rem;
+    flex-direction: row;
+    justify-content: left!important;
+    background: white;
+}
+.username{
+    align-items: left;
+}
+.address{
+ align-items:left!important;
+ 
+} 
+.service-first-container{
+    display: flex;
+width: 78%;
+margin-top: 1rem;
+flex-direction: row;
+justify-content:space-between!important;
+}
+.locality{
+   justify-content:space-between!important;
+   flex-direction: row;
+}
+.add-button-2{
+    height: 1.6rem;
+    width: 4rem;
+    align-items: center;
+    justify-content: center;
+}
+.Add-Agency-FormField__Input{
+    border: 1px solid #949DBD!important;
+    border-radius: 0.1rem;
+    width: 17.5rem;
+    margin-top: 0.2rem;
+    font-weight: 300;
+    color:black;
+    height:30px!important;
+    padding-left: 8px;
+    font-size: 13px;
+}
+.Add-Agency-Address-FormField__Input{
+    border: 1px solid #949DBD!important;
+    border-radius: 0.1rem;
+    width: 17.5rem;
+    margin-top: 0.2rem;
+    color:black;
+    height:30px!important;
+    padding-left: 8px;
+    height: 4rem !important;
+    padding-bottom: 2rem;
+    font-size: 13px;
+}
+.added-locality-container{
+    padding-top: 0.5rem;
+    justify-content:space-evenly!important;
+    flex-direction: row;
+    display: flex;
+}
+.added-locality{
+    background:#D7DBDD;
+    border-radius: 1rem;
+    color: black;
+    margin-right: 10px;
+    padding-left: 5px;
+    padding-right: 10px;
+    font-size: 0.8rem;
+}
+.enter-locality{
+    height: 1.8rem;
+    display: flex;
+}
+.close{
+    height: 0.8rem;
+    padding-left: 0.5rem;
+    padding-bottom: 0.2rem;
+    background:#D7DBDD!important;
+   
+}
+.btn-link-container{
+    display: flex;
+    flex-direction: row;
+    justify-items: center;
+    align-items: center;
+    align-content: center;
+    height: 2rem;
+    width: 90%;
+    margin-left: 8rem;
+    margin-top: 2rem;
+}
+.link-container-add{
+    align-items: center!important;
+    width: 20%;
+    align-content: left!important;
+    justify-content: left!important;
+    justify-items: left!important;
+    margin-left: 0rem;
+    display: flex;
+    flex-direction: row;
+    color: #03134e;
+    font-weight:600;
+    font-size: 0.9rem;
+}
+.ant-modal-confirm .ant-modal-body {
+    padding: 32px 35px 52px;
+    margin-top: 10rem;
+}
+.ant-modal-wrap {
+    position: fixed;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    z-index: 1000;
+    background:#5A5A5B;
+    overflow: auto;
+    outline: 0;
+}
+.ant-modal-content{
+    border-radius: 5px;
+}
+.ant-modal-confirm-body{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.ant-modal-confirm-body .ant-modal-confirm-content {
+    margin-top: 8px;
+    color: #444444;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.ant-modal-confirm-btns{
+    align-items: center!important;
+}
+.ant-modal-confirm .ant-modal-confirm-btns{
+    margin-right:136px ;
+    margin-top: 2rem;
+}
+.ant-btn.ant-btn-primary{
+    width:6rem;
+}
+.error{
+    color: red;
+}
+.add-btn{
+    margin-top: 0.2rem;
+}

@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-Television">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="Television" clip-path="url(#clip-Television)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group_36227" data-name="Group 36227">
+      <rect id="Rectangle_4360" data-name="Rectangle 4360" width="32" height="32" fill="none"/>
+      <g id="noun_TV_359404" transform="translate(-4 -12.565)">
+        <path id="Path_40956" data-name="Path 40956" d="M35,35.986V17.565H5V35.986H19.193v1.653c-2.557.048-4.516.322-4.516.652h0v.263c0,.085.131.167.368.241v.155h0c0,.339,2.218.614,4.954.614s4.954-.275,4.954-.614V38.8c.238-.075.368-.156.368-.241v-.263c0-.33-1.959-.6-4.516-.652V35.986Zm-29.1-1.6V18.3H34.1V34.389Z" transform="translate(0 0)" fill="#3e5bf8"/>
+      </g>
+    </g>
+  </g>
+</svg>

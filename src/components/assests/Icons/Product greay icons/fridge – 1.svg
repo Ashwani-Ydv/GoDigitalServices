@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="32" height="32" viewBox="0 0 32 32">
+  <defs>
+    <clipPath id="clip-fridge_1">
+      <rect width="32" height="32"/>
+    </clipPath>
+  </defs>
+  <g id="fridge_1" data-name="fridge – 1" clip-path="url(#clip-fridge_1)">
+    <rect width="32" height="32" fill="#fff"/>
+    <g id="Group_36232" data-name="Group 36232">
+      <rect id="Rectangle_4360" data-name="Rectangle 4360" width="32" height="32" fill="none"/>
+      <g id="noun_Fridge_779609" transform="translate(-9 -4)">
+        <g id="Group_36140" data-name="Group 36140" transform="translate(17 7)">
+          <g id="Group_36139" data-name="Group 36139">
+            <path id="Path_41053" data-name="Path 41053" d="M30.333,7H19.667A2.637,2.637,0,0,0,17,9.6V29.36a2.637,2.637,0,0,0,2.667,2.6H20.2v.52a.534.534,0,0,0,1.067,0v-.52h7.467v.52a.534.534,0,0,0,1.067,0v-.52h.533A2.637,2.637,0,0,0,33,29.36V9.6A2.637,2.637,0,0,0,30.333,7ZM19.667,8.04H30.333a1.582,1.582,0,0,1,1.6,1.56v5.72H18.067V9.6A1.582,1.582,0,0,1,19.667,8.04ZM30.333,30.92H19.667a1.582,1.582,0,0,1-1.6-1.56v-13H31.933v13A1.582,1.582,0,0,1,30.333,30.92Z" transform="translate(-17 -7)" fill="#576698"/>
+            <path id="Path_41054" data-name="Path 41054" d="M39.533,16.12a.527.527,0,0,0,.533-.52V13.52a.534.534,0,0,0-1.067,0V15.6A.527.527,0,0,0,39.533,16.12Z" transform="translate(-27.267 -9.88)" fill="#576698"/>
+            <path id="Path_41055" data-name="Path 41055" d="M39.533,29a.527.527,0,0,0-.533.52v4.16a.534.534,0,0,0,1.067,0V29.52A.527.527,0,0,0,39.533,29Z" transform="translate(-27.267 -17.56)" fill="#576698"/>
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>
